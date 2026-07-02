@@ -1,0 +1,15 @@
+Table 2. Feature Importance Scores Obtained from the Random Forest Classifier
+
+  Rank   Feature                      Importance Score
+  ------ -------------------------- ------------------
+  1      RMS                                  0.205710
+  2      Standard Deviation (Std)             0.190401
+  3      Peak-to-Peak                         0.170679
+  4      Peak                                 0.153693
+  5      Variance                             0.144765
+  6      Kurtosis                             0.104469
+  7      Mean                                 0.027433
+  8      Skewness                             0.002851
+
+Caption: Table 2. Feature importance scores calculated using the Random
+Forest classifier for bearing fault diagnosis.
